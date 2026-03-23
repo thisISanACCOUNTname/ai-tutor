@@ -8,4 +8,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="LlmTornado.Agents" Version="1.0.50" />
+    <PackageReference Include="LlmTornado.Mcp" Version="1.1.51" />
+    <PackageReference Include="LlmTornado.VectorDatabases" Version="1.0.0" />
+    <PackageReference Include="LlmTornado.VectorDatabases.ChromaDB" Version="1.0.0" />
+  </ItemGroup>
+
 </Project>
